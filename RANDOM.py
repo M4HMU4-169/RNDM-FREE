@@ -1,1 +1,4 @@
-print(' OFF FOR NEXT UPDATE ')
+import os, sys, platform
+os.system('git pull ')
+import RANDOM
+
